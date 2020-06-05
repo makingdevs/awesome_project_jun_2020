@@ -3,6 +3,7 @@
 ## Tech Stack
 
 - Ruby
+- Rails
 
 ## Authors
 
