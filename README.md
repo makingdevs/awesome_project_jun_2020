@@ -13,11 +13,11 @@
 - José Juan Reyes Zuniga(juan@makingdevs.com)
 - Carlos Gibrán(carlos@makingdevs.com)
 - Eliot Rodrigo
+- Lia Zoe
+- Bertha Cruz
 
 ## Features
 
 - Add a new User
 - Add contacts to network
 - Add contact form
-- Add product
-- Remove product
