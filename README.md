@@ -2,14 +2,14 @@
 
 ## Tech Stack
 
-- Ruby
-- Rails
+- Ruby/Rails
 
 ## Authors
 
 - José Juan Reyes Zuniga(juan@makingdevs.com)
+- Carlos Gibrán
 
 ## Features
 
 - Add a new User
-- Make social app
+- Add contacts to network
